@@ -10,25 +10,25 @@ A simple command-line tool to view man pages.
 
 To install `manwrapper`, you can use pip:
 
-\```bash
+```bash
 pip install manwrapper
-\```
+```
 
 Or, if you want to install from the source:
 
-\```bash
+```bash
 git clone https://github.com/bet0x/manwrapper.git
 cd manwrapper
 pip install .
-\```
+```
 
 ## Usage
 
 After installation, you can use the `manwrapper` command followed by the topic you want to view:
 
-\```bash
+```bash
 manwrapper ls
-\```
+```
 
 This will display the man page for the `ls` command.
 
