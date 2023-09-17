@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="manwrapper",
-    version="0.2",
+    version="0.4",
     description="A simple command-line tool to view man pages.",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
